@@ -1,3 +1,0 @@
-/home/auliakeziaa/CatchTheCandies/build/CMakeFiles/rebuild_cache.dir
-/home/auliakeziaa/CatchTheCandies/build/CMakeFiles/edit_cache.dir
-/home/auliakeziaa/CatchTheCandies/build/CMakeFiles/CatchTheCandies.dir
